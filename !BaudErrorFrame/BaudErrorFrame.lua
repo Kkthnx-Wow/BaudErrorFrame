@@ -99,7 +99,7 @@ function BaudErrorFrameMinimapButton_OnUpdate(self)
 	elseif IsAddOnLoaded("KkthnxUI") then
 		self:SetPoint("RIGHT", Minimap, 2, 0)
 	else
-		self:SetPoint("TOPRIGHT", Minimap, "TOPRIGHT", 0, 0)
+		self:SetPoint("TOPRIGHT", Minimap, "TOPRIGHT", -8, -1)
 	end
 end
 
