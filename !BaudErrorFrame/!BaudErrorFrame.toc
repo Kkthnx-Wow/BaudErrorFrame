@@ -1,0 +1,10 @@
+## Interface: 90002
+## Title: |cff669DFFBaudErrorFrame|r
+## Title-zhCN: |cff669DFFBaudErrorFrame|r 报错收集
+## Title-zhTW: |cff669DFFBaudErrorFrame|r 報錯收集
+## Notes: Improved error reporting
+## Author: Baudzilla, wolftankk, Siweia
+## Version: NDui/KkthnxUI Mod
+## SavedVariables: BaudErrorFrameConfig
+
+BaudErrorFrame.xml
